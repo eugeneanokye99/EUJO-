@@ -1,5 +1,3 @@
-Here's the updated README for your **Java + MongoDB-based chat application**:
-
 ---
 
 # Secure Chat Application
@@ -143,5 +141,3 @@ Feel free to open issues or submit pull requests to enhance the project. Contrib
 This project is licensed under the MIT License.
 
 ---
-
-Let me know if you want to customize any part of this!
